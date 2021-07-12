@@ -6,8 +6,8 @@ This python package is prepared by Arjuman.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com/Arjuman23/preprocess_arj.git`
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocess_arj`
